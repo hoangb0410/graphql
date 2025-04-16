@@ -1,7 +1,9 @@
 # graphql
 
-- CRUD with
+## CRUD with
 
-* ExpressJS
-* PostgreSQL
-* GraphQL
+### ExpressJS
+
+### PostgreSQL
+
+### GraphQL
